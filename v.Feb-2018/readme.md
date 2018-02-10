@@ -8,7 +8,7 @@ For the past month, we ranked nearly 1,200 JavaScript articles to pick the Top 1
 
 <br>
 
-## Course of the month:
+### Course of the month:
 [Modern JavaScript From The Beginning: Learn and build projects with pure JavaScript (No frameworks or libraries)](http://bit.ly/2E3RHNo) [6,217 recommends, 4.8/5 stars]
 
 <br>
