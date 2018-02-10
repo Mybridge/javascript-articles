@@ -10,7 +10,7 @@ For the past month, we ranked nearly 1,200 JavaScript articles to pick the Top 1
 
 
 ## Rank 1
-[I’m harvesting credit card numbers and passwords from your site. Here’s how.](https://hackernoon.com/im-harvesting-credit-card-numbers-and-passwords-from-your-site-here-s-how-9a8cb347c5b5?utm_source=mybridge&utm_medium=email&utm_campaign=read_more)]
+### [I’m harvesting credit card numbers and passwords from your site. Here’s how.](https://hackernoon.com/im-harvesting-credit-card-numbers-and-passwords-from-your-site-here-s-how-9a8cb347c5b5?utm_source=mybridge&utm_medium=email&utm_campaign=read_more)
 
 <br>
 
