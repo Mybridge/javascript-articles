@@ -1,5 +1,7 @@
 # JavaScript Top 10 Articles for the Past Month (v.Feb 2018)
 
+<img src="feb-javascript.png" width="800" alt="Mybridge"></a>
+
 For the past month, we ranked nearly 1,200 JavaScript articles to pick the Top 10 stories that can help advance your career (0.8% chance).
 
 * Topics in this list: Hacking, Frameworks, Start-up Optimization, Trend, Object Rest/Spread Properties, Machine Learning, ES6, Local Storage
