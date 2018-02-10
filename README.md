@@ -1,5 +1,4 @@
 # javascript-articles-monthly
-Monthly Series - Top 10 JavaScript Articles
 
 Click "Watch" to get an email notification once a month for Top 10 JavaScript articles.
 
@@ -7,10 +6,10 @@ Click "Watch" to get an email notification once a month for Top 10 JavaScript ar
 
 Every month, about 1,000 ~ 1,500 articles, specific to JavaScript, are compared and only 10 finest articles are picked. This will ensure you that every single article you read is great. 
 
-Also published [Mybridge Publication](https://medium.mybridge.co)
+Also published on [Mybridge Publication](https://medium.mybridge.co)
 
 
 Monthly Series:
 
-- [v.Feb 2018 - Top 10 JavaScript Aricles](v.Feb-2018/README.md)
-- [v.Mar 2018 - Top 10 JavaScript Aricles](v.Feb-2018/README.md)
+* [v.Feb 2018 - Top 10 JavaScript Aricles](v.Feb-2018)
+* v.Mar 2018 - Top 10 JavaScript Aricles -- Coming Soon
