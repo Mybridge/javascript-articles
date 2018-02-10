@@ -1,10 +1,15 @@
-#JavaScript Top 10 Articles for the Past Month (v.Feb 2018)
+# JavaScript Top 10 Articles for the Past Month (v.Feb 2018)
 
 For the past month, we ranked nearly 1,200 JavaScript articles to pick the Top 10 stories that can help advance your career (0.8% chance).
 
 * Topics in this list: Hacking, Frameworks, Start-up Optimization, Trend, Object Rest/Spread Properties, Machine Learning, ES6, Local Storage
 * React, Node, Angular, Vue are posted separately
 * Also published on the [publication](https://medium.com/@Mybridge/javascript-top-10-articles-for-the-past-month-v-feb-2018-cb8a4949494f)
+
+<br>
+
+## Course of the month:
+[Modern JavaScript From The Beginning: Learn and build projects with pure JavaScript (No frameworks or libraries)](http://bit.ly/2E3RHNo) [6,217 recommends, 4.8/5 stars]
 
 <br>
 
