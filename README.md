@@ -1,5 +1,7 @@
 # javascript-articles-monthly
 
+[English Version](./README.md) | [中文版本](./CN.md)
+
 Click "Watch" to get an email notification once a month for Top 10 JavaScript articles.
 
 [Mybridge AI](https://www.mybridge.co) ranks articles by the number of shares, minutes read, and by its own machine learning algorithm.

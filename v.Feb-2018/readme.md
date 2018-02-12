@@ -1,5 +1,7 @@
 # JavaScript Top 10 Articles for the Past Month (v.Feb 2018)
 
+[English Version](./readme.md) | [中文版本](./CN.md)
+
 <img src="feb-javascript.png" width="800" alt="Mybridge"></a>
 
 For the past month, we ranked nearly 1,200 JavaScript articles to pick the Top 10 stories that can help advance your career (0.8% chance).

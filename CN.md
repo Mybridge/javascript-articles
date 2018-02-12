@@ -1,5 +1,7 @@
 # javascript-articles-monthly
 
+[English Version](./README.md) | [中文版本](./CN.md)
+
 点击 "Watch" 每月获取一次关于十大 JavaScript 文章的邮件提醒。
 
 [Mybridge AI](https://www.mybridge.co) 通过分享数、阅读时间以及自定义的机器学习算法为文章进行排名。
