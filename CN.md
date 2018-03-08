@@ -11,5 +11,5 @@
 
 月度汇总：
 
-* [2018年2月版 - JavaScript 十大文章](./v.Feb-2018/CN.md)
+* [2018年2月版 - JavaScript 十大文章](./src/CN.md)
 * 2018年3月版 - JavaScript 十大文章 -- 即将到来
