@@ -16,6 +16,7 @@ Also published on [Mybridge Publication](https://medium.mybridge.co)
 * [v.Apr 2018 - Top 10 JavaScript Aricles](./src/04-2018.md)
 * [v.May 2018 - Top 10 JavaScript Aricles](./src/05-2018.md)
 * [v.June 2018 - Top 10 JavaScript Aricles](./src/06-2018.md)
+* [v.July 2018 - Top 10 JavaScript Aricles](./src/07-2018.md)
 
 <br>
 
